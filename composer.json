@@ -1,0 +1,19 @@
+{
+    "name": "wild/composer_quest",
+    "description": "new comp quest 3",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sergtwo",
+            "email": "sergerama@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
